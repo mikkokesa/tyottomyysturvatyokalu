@@ -1,50 +1,74 @@
-﻿TEM LYHYEN AIKAVÄLIN TYÖMARKKINAENNUSTE, KOKO MAA;;;;;TYÖTTÖMYYSTURVAN KUNTAMAKSUN KORJAUSKERTOIMET ;;;;
-;2026*;2027*;2028*;;;TYÖMARKKINATUKI, PERUSPÄIVÄRAHA, YLEISTUKI TYÖTTÖMYYDEN PERUSTEELLA;ANSIOTURVA;Sanalliset kuvaukset korjauskertoimista (jokaiseen soluun oma kuvaus ja mihin kuukausiin vaikuttaa;ARKIPÄIVIEN LKM
-Työttömät työnhakijat;342 000;338 000;324 000;;2025-01;2,7;5,58;Maksuperusteesta johtuen kuluja ei kohdentunut alkuvuodelle täysimääräisesti. Kelan etuuksia on oikaistu ylöspäin tammi-helmi ja ansiopäivärahaa tammi-maalis.;23
-Pitkäaikaistyöttömät;141 000;138 000;129 000;;2025-02;1,09;1,32;;20
-;;;;;2025-03;1,04;1,2;;21
-TEM LYHYEN AIKAVÄLIN TYÖMARKKINAENNUSTE,  Elinvoimakeskusalueittain;;;;;2025-04;1,04;1;;22
-Työttömät työnhakijat;;;;;2025-05;1,04;1;;22
-EVK;2026*;2027*;2028*;;2025-06;1,04;1;;21
-Uudenmaan;117 600;118 200;114 500;;2025-07;1,04;1;;23
-Varsinais-Suomen;28 800;28 500;27 200;;2025-08;1,04;1;;21
-Satakunnan;11 200;11 000;10 500;;2025-09;1,04;1;;22
-Hämeen;23 300;22 700;21 400;;2025-10;0,8;1;Ansiopäivärahalta työmarkkinatuelle tippuneita ei oltu laskutettu loka/marraskuuhun asti ollenkaan. Takautuvat maksut on tasattu Kelan etuuksiin painotetusti tammikuusta loka/marraskuuhun, jolloin takautuva korjaus on tehty.;23
-Pirkanmaan;36 400;35 900;34 200;;2025-11;0,87;1;Pääosin työmarkkinatuen hyvitykset palautettiin kunnille koko alkuvuoden osalta vasta marraskuussa. Palautukset on tasattu Kelan etuuksiin painotetusti tammi-marras.;20
-Kaakkois-Suomen;18 200;18 000;17 500;;2025-12;1;1;;23
-Etelä-Savon;6 600;6 400;6 000;;2026-01;1;1;;22
-Pohjois-Savon;14 600;14 500;14 100;;2026-02;1;1;;20
-Pohjois-Karjalan;10 900;10 700;10 400;;2026-03;1;1;;22
-Keski-Suomen;19 600;19 400;18 600;;2026-04;1;1;;22
-Etelä-Pohjanmaan;7 700;7 400;6 900;;2026-05;1;1;;21
-Pohjanmaan;9 500;9 300;8 800;;2026-06;1;1;;22
-Pohjois-Pohjanmaan;25 600;25 000;23 900;;2026-07;1;1;;23
-Kainuun;3 200;3 000;2 700;;2026-08;1;1;;21
-Lapin;8 100;7 500;6 700;;2026-09;1;1;;22
-;;;;;2026-10;1;1;;22
-;;;;;2026-11;1;1;;21
-;;;;;2026-12;1;1;;23
-;;;;;2027-01;1;1;;21
-FINANSSIVALVONTA, ansiopäivärahan saajat ja maksetut etuudet, koko maa;;;;;2027-02;1;1;;20
-;Maksetut etuudet;Saajat;;;2027-03;1;1;;23
-2025-1;189696469;130285;;;2027-04;1;1;;22
-2025-2;177985936;125512;;;2027-05;1;1;;21
-2025-3;175899709;129863;;;2027-06;1;1;;22
-2025-4;179354663;124733;;;2027-07;1;1;;22
-2025-5;149802318;111283;;;2027-08;1;1;;22
-2025-6;134392850;100946;;;2027-09;1;1;;22
-2025-7;146159609;104224;;;2027-10;1;1;;21
-2025-8;145669506;106593;;;2027-11;1;1;;22
-2025-9;130597578;96764;;;2027-12;1;1;;23
-2025-10;131887599;98797;;;2028-01;1;1;;21
-2025-11;127743052;98491;;;2028-02;1;1;;21
-2025-12;141352878;106527;;;2028-03;1;1;;23
-2026-1;149805256;114804;;;2028-04;1;1;;20
-2026-2;146312017;112936;;;2028-05;1;1;;23
-2026-3;153015833;118995;;;2028-06;1;1;;22
-2026-4;140475794;109160;;;2028-07;1;1;;21
-2026-5;116459444;95307;;;2028-08;1;1;;23
-2026-6;108498968;88005;;;2028-09;1;1;;21
-2026-7;110339623;89893;;;2028-10;1;1;;22
-2026-8;117529866;93255;;;2028-11;1;1;;22
-;;;;;2028-12;1;1;;21
+﻿TEM LYHYEN AIKAVÄLIN TYÖMARKKINAENNUSTE, KOKO MAA;;;;;TYÖTTÖMYYSTURVAN KUNTAMAKSUN KORJAUSKERTOIMET ;;;;;FINANSSIVALVONTA, Ansiopäivärahan saajat ja maksetut etuudet, koko maa;
+;2026*;2027*;2028*;;;TYÖMARKKINATUKI, PERUSPÄIVÄRAHA, YLEISTUKI TYÖTTÖMYYDEN PERUSTEELLA;ANSIOTURVA;Sanalliset kuvaukset korjauskertoimista (jokaiseen soluun oma kuvaus ja mihin kuukausiin vaikuttaa;ARKIPÄIVIEN LKM;Maksetut etuudet;Saajat
+Työttömät työnhakijat;342 000;338 000;324 000;;tammi.25;2,7;5,58;Maksuperusteesta johtuen kuluja ei kohdentunut alkuvuodelle täysimääräisesti. Kelan etuuksia on oikaistu ylöspäin tammi-helmi ja ansiopäivärahaa tammi-maalis.;23;189696469;130285
+Pitkäaikaistyöttömät;141 000;138 000;129 000;;helmi.25;1,09;1,32;;20;177985936;125512
+;;;;;maalis.25;1,04;1,2;;21;175899709;129863
+TEM LYHYEN AIKAVÄLIN TYÖMARKKINAENNUSTE,  Elinvoimakeskusalueittain;;;;;huhti.25;1,04;1;;22;179354663;124733
+Työttömät työnhakijat;;;;;touko.25;1,04;1;;22;149802318;111283
+EVK;2026*;2027*;2028*;;kesä.25;1,04;1;;21;134392850;100946
+Uudenmaan;117 600;118 200;114 500;;heinä.25;1,04;1;;23;146159609;104224
+Varsinais-Suomen;28 800;28 500;27 200;;elo.25;1,04;1;;21;145669506;106593
+Satakunnan;11 200;11 000;10 500;;syys.25;1,04;1;;22;130597578;96764
+Hämeen;23 300;22 700;21 400;;loka.25;0,8;1;Ansiopäivärahalta työmarkkinatuelle tippuneita ei oltu laskutettu loka/marraskuuhun asti ollenkaan. Takautuvat maksut on tasattu Kelan etuuksiin painotetusti tammikuusta loka/marraskuuhun, jolloin takautuva korjaus on tehty.;23;131887599;98797
+Pirkanmaan;36 400;35 900;34 200;;marras.25;0,87;1;Pääosin työmarkkinatuen hyvitykset palautettiin kunnille koko alkuvuoden osalta vasta marraskuussa. Palautukset on tasattu Kelan etuuksiin painotetusti tammi-marras.;20;127743052;98491
+Kaakkois-Suomen;18 200;18 000;17 500;;joulu.25;1;1;;23;141352878;106527
+Etelä-Savon;6 600;6 400;6 000;;tammi.26;1;1;;22;149805256;114804
+Pohjois-Savon;14 600;14 500;14 100;;helmi.26;1;1;;20;146312017;112936
+Pohjois-Karjalan;10 900;10 700;10 400;;maalis.26;1;1;;22;153015833;118995
+Keski-Suomen;19 600;19 400;18 600;;huhti.26;1;1;;22;140475794;109160
+Etelä-Pohjanmaan;7 700;7 400;6 900;;touko.26;1;1;;21;116459444;95307
+Pohjanmaan;9 500;9 300;8 800;;kesä.26;1;1;;22;108498968;88005
+Pohjois-Pohjanmaan;25 600;25 000;23 900;;heinä.26;1;1;;23;110339623;89893
+Kainuun;3 200;3 000;2 700;;elo.26;1;1;;21;117529866;93255
+Lapin;8 100;7 500;6 700;;syys.26;1;1;;22;;
+;;;;;loka.26;1;1;;22;;
+;;;;;marras.26;1;1;;21;;
+;;;;;joulu.26;1;1;;23;;
+;;;;;tammi.27;1;1;;21;;
+;;;;;helmi.27;1;1;;20;;
+;;;;;maalis.27;1;1;;23;;
+;;;;;huhti.27;1;1;;22;;
+;;;;;touko.27;1;1;;21;;
+;;;;;kesä.27;1;1;;22;;
+;;;;;heinä.27;1;1;;22;;
+;;;;;elo.27;1;1;;22;;
+;;;;;syys.27;1;1;;22;;
+;;;;;loka.27;1;1;;21;;
+;;;;;marras.27;1;1;;22;;
+;;;;;joulu.27;1;1;;23;;
+;;;;;tammi.28;1;1;;21;;
+;;;;;helmi.28;1;1;;21;;
+;;;;;maalis.28;1;1;;23;;
+;;;;;huhti.28;1;1;;20;;
+;;;;;touko.28;1;1;;23;;
+;;;;;kesä.28;1;1;;22;;
+;;;;;heinä.28;1;1;;21;;
+;;;;;elo.28;1;1;;23;;
+;;;;;syys.28;1;1;;21;;
+;;;;;loka.28;1;1;;22;;
+;;;;;marras.28;1;1;;22;;
+;;;;;joulu.28;1;1;;21;;
+;;;;;tammi.29;;;;;;
+;;;;;helmi.29;;;;;;
+;;;;;maalis.29;;;;;;
+;;;;;huhti.29;;;;;;
+;;;;;touko.29;;;;;;
+;;;;;kesä.29;;;;;;
+;;;;;heinä.29;;;;;;
+;;;;;elo.29;;;;;;
+;;;;;syys.29;;;;;;
+;;;;;loka.29;;;;;;
+;;;;;marras.29;;;;;;
+;;;;;joulu.29;;;;;;
+;;;;;tammi.30;;;;;;
+;;;;;helmi.30;;;;;;
+;;;;;maalis.30;;;;;;
+;;;;;huhti.30;;;;;;
+;;;;;touko.30;;;;;;
+;;;;;kesä.30;;;;;;
+;;;;;heinä.30;;;;;;
+;;;;;elo.30;;;;;;
+;;;;;syys.30;;;;;;
+;;;;;loka.30;;;;;;
+;;;;;marras.30;;;;;;
+;;;;;joulu.30;;;;;;

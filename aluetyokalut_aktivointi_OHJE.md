@@ -20,6 +20,7 @@ Nimi ja sijainti on kirjoitettu aluetyökalujen koodiin. **Älä nimeä tiedosto
 ```
 lisenssi_id;alue;asiakas;aktiivinen;lisatieto
 TLP-2026-01;Tunturi-Lappi ja Pello;Tunturi-Lapin ja Pellon työllisyysalue;1;Ensimmäinen aluetyökalu, toimitettu 10/2026
+PIL-2026-01;Pohjois- ja Itä-Lappi;Pohjois- ja Itä-Lapin työllisyysalue;1;Toimitettu 10/2026
 ```
 
 | Sarake | Pakollinen | Merkitys |
@@ -36,7 +37,12 @@ Sarakkeiden järjestyksellä ei ole väliä, koska työkalu etsii sarakkeet otsi
 
 `<ALUEKOODI>-<VUOSI>-<JUOKSEVA NRO>`, esim. `TLP-2026-01`.
 
-- Aluekoodi on lyhyt tunniste alueelle (TLP = Tunturi-Lappi ja Pello).
+- Aluekoodi on lyhyt tunniste alueelle.
+
+| Tunnus | Alue |
+|---|---|
+| TLP-2026-01 | Tunturi-Lappi ja Pello |
+| PIL-2026-01 | Pohjois- ja Itä-Lappi |
 - Jos samalle alueelle annetaan työkalu useammalle asiakkaalle, kukin saa oman juoksevan numeron (`TLP-2026-02`, ...). Silloin ne voi sulkea toisistaan riippumatta.
 - Jos työkalu toimitetaan uudelleen esim. uuden sopimuskauden alkaessa, sille voi antaa uuden tunnuksen ja vanhan rivin voi poistaa.
 

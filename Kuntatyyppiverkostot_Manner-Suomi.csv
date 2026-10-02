@@ -1,0 +1,298 @@
+﻿;;;;;;;;;
+Kuntatyyppiverkostot;;;;;;;;;
+Manner-Suomi, 292 kuntaa. Pienet kunnat on luokiteltu liitteen asukasluvun perusteella.;;;;;;;;;
+"Kehyskuntien nimilistassa on 44 kuntaa. Uudempi lähde ilmoittaa 45; yksi jäsen on varmistamatta.";;;;;;;;;
+;;;Merkintöjä yhteensä;23;44;58;197;33;
+Kuntatunnus;Kunta;Asukasluku;Verkostot;Suuret kaupungit ja maakuntakeskukset;Kehyskunnat (nimilista);Seutukaupungit;Pienet kunnat (<10 000 as.);Ruotsin- ja kaksikieliset kunnat;Merkintöjen määrä
+020;Akaa;16 429;Seutukaupungit;0;0;1;0;0;1
+005;Alajärvi;8 982;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+009;Alavieska;2 384;Pienet kunnat;0;0;0;1;0;1
+010;Alavus;10 634;Seutukaupungit;0;0;1;0;0;1
+016;Asikkala;7 841;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+018;Askola;4 677;Pienet kunnat;0;0;0;1;0;1
+019;Aura;3 937;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+046;Enonkoski;1 273;Pienet kunnat;0;0;0;1;0;1
+047;Enontekiö;1 769;Pienet kunnat;0;0;0;1;0;1
+049;Espoo;325 716;"Suuret kaupungit ja maakuntakeskukset; Ruotsin- ja kaksikieliset kunnat";1;0;0;0;1;2
+050;Eura;11 005;Kehyskunnat;0;1;0;0;0;1
+051;Eurajoki;8 920;Pienet kunnat;0;0;0;1;0;1
+052;Evijärvi;2 267;Pienet kunnat;0;0;0;1;0;1
+061;Forssa;16 307;Seutukaupungit;0;0;1;0;0;1
+069;Haapajärvi;6 441;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+071;Haapavesi;6 298;Pienet kunnat;0;0;0;1;0;1
+072;Hailuoto;912;Pienet kunnat;0;0;0;1;0;1
+074;Halsua;975;Pienet kunnat;0;0;0;1;0;1
+075;Hamina;19 113;Seutukaupungit;0;0;1;0;0;1
+077;Hankasalmi;4 436;Pienet kunnat;0;0;0;1;0;1
+078;Hanko;7 620;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+079;Harjavalta;6 565;Pienet kunnat;0;0;0;1;0;1
+081;Hartola;2 401;Pienet kunnat;0;0;0;1;0;1
+082;Hattula;9 346;Pienet kunnat;0;0;0;1;0;1
+086;Hausjärvi;7 862;Pienet kunnat;0;0;0;1;0;1
+111;Heinola;17 694;"Kehyskunnat; Seutukaupungit";0;1;1;0;0;2
+090;Heinävesi;2 888;Pienet kunnat;0;0;0;1;0;1
+091;Helsinki;694 392;"Suuret kaupungit ja maakuntakeskukset; Ruotsin- ja kaksikieliset kunnat";1;0;0;0;1;2
+097;Hirvensalmi;2 023;Pienet kunnat;0;0;0;1;0;1
+098;Hollola;22 775;Kehyskunnat;0;1;0;0;0;1
+102;Huittinen;9 546;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+103;Humppila;2 074;Pienet kunnat;0;0;0;1;0;1
+105;Hyrynsalmi;1 984;Pienet kunnat;0;0;0;1;0;1
+106;Hyvinkää;47 015;Kehyskunnat;0;1;0;0;0;1
+108;Hämeenkyrö;10 249;Kehyskunnat;0;1;0;0;0;1
+109;Hämeenlinna;68 614;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+139;Ii;9 755;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+140;Iisalmi;20 205;Seutukaupungit;0;0;1;0;0;1
+142;Iitti;6 329;Pienet kunnat;0;0;0;1;0;1
+143;Ikaalinen;6 704;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+145;Ilmajoki;12 405;Kehyskunnat;0;1;0;0;0;1
+146;Ilomantsi;4 293;Pienet kunnat;0;0;0;1;0;1
+153;Imatra;24 345;Seutukaupungit;0;0;1;0;0;1
+148;Inari;7 244;Pienet kunnat;0;0;0;1;0;1
+149;Inkoo;5 391;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+151;Isojoki;1 771;Pienet kunnat;0;0;0;1;0;1
+152;Isokyrö;4 261;Pienet kunnat;0;0;0;1;0;1
+165;Janakkala;15 867;Kehyskunnat;0;1;0;0;0;1
+167;Joensuu;79 129;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+169;Jokioinen;4 795;Pienet kunnat;0;0;0;1;0;1
+171;Joroinen;4 494;Pienet kunnat;0;0;0;1;0;1
+172;Joutsa;4 079;Pienet kunnat;0;0;0;1;0;1
+176;Juuka;4 059;Pienet kunnat;0;0;0;1;0;1
+177;Juupajoki;1 663;Pienet kunnat;0;0;0;1;0;1
+178;Juva;5 569;Pienet kunnat;0;0;0;1;0;1
+179;Jyväskylä;149 895;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+181;Jämijärvi;1 663;Pienet kunnat;0;0;0;1;0;1
+182;Jämsä;19 020;Seutukaupungit;0;0;1;0;0;1
+186;Järvenpää;46 944;Kehyskunnat;0;1;0;0;0;1
+202;Kaarina;36 675;Kehyskunnat;0;1;0;0;0;1
+204;Kaavi;2 547;Pienet kunnat;0;0;0;1;0;1
+205;Kajaani;36 370;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+208;Kalajoki;12 155;Seutukaupungit;0;0;1;0;0;1
+211;Kangasala;34 379;Kehyskunnat;0;1;0;0;0;1
+213;Kangasniemi;4 952;Pienet kunnat;0;0;0;1;0;1
+214;Kankaanpää;12 508;Seutukaupungit;0;0;1;0;0;1
+216;Kannonkoski;1 137;Pienet kunnat;0;0;0;1;0;1
+217;Kannus;5 246;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+218;Karijoki;1 134;Pienet kunnat;0;0;0;1;0;1
+224;Karkkila;8 274;Pienet kunnat;0;0;0;1;0;1
+226;Karstula;3 514;Pienet kunnat;0;0;0;1;0;1
+230;Karvia;2 133;Pienet kunnat;0;0;0;1;0;1
+231;Kaskinen;1 248;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+232;Kauhajoki;12 429;Seutukaupungit;0;0;1;0;0;1
+233;Kauhava;14 909;Seutukaupungit;0;0;1;0;0;1
+235;Kauniainen;10 318;Ruotsin- ja kaksikieliset kunnat;0;0;0;0;1;1
+236;Kaustinen;4 074;Pienet kunnat;0;0;0;1;0;1
+239;Keitele;1 922;Pienet kunnat;0;0;0;1;0;1
+240;Kemi;19 339;Seutukaupungit;0;0;1;0;0;1
+320;Kemijärvi;6 919;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+241;Keminmaa;7 576;Pienet kunnat;0;0;0;1;0;1
+322;Kemiönsaari;6 340;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+244;Kempele;19 702;Kehyskunnat;0;1;0;0;0;1
+245;Kerava;38 767;Kehyskunnat;0;1;0;0;0;1
+249;Keuruu;9 014;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+250;Kihniö;1 670;Pienet kunnat;0;0;0;1;0;1
+256;Kinnula;1 472;Pienet kunnat;0;0;0;1;0;1
+257;Kirkkonummi;41 725;"Kehyskunnat; Ruotsin- ja kaksikieliset kunnat";0;1;0;0;1;2
+260;Kitee;9 397;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+261;Kittilä;6 973;Pienet kunnat;0;0;0;1;0;1
+263;Kiuruvesi;7 255;Pienet kunnat;0;0;0;1;0;1
+265;Kivijärvi;1 001;Pienet kunnat;0;0;0;1;0;1
+271;Kokemäki;6 583;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+272;Kokkola;48 338;"Suuret kaupungit ja maakuntakeskukset; Ruotsin- ja kaksikieliset kunnat";1;0;0;0;1;2
+273;Kolari;4 001;Pienet kunnat;0;0;0;1;0;1
+275;Konnevesi;2 404;Pienet kunnat;0;0;0;1;0;1
+276;Kontiolahti;15 060;Kehyskunnat;0;1;0;0;0;1
+280;Korsnäs;1 984;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+284;Koski Tl;2 144;Pienet kunnat;0;0;0;1;0;1
+285;Kotka;50 029;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+286;Kouvola;77 625;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+287;Kristiinankaupunki;6 113;"Seutukaupungit; Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;1;1;1;3
+288;Kruunupyy;6 268;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+290;Kuhmo;7 300;Pienet kunnat;0;0;0;1;0;1
+291;Kuhmoinen;1 979;Pienet kunnat;0;0;0;1;0;1
+297;Kuopio;126 572;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+300;Kuortane;3 306;Pienet kunnat;0;0;0;1;0;1
+301;Kurikka;19 441;Seutukaupungit;0;0;1;0;0;1
+304;Kustavi;972;Pienet kunnat;0;0;0;1;0;1
+305;Kuusamo;14 800;Seutukaupungit;0;0;1;0;0;1
+312;Kyyjärvi;1 129;Pienet kunnat;0;0;0;1;0;1
+316;Kärkölä;4 052;Pienet kunnat;0;0;0;1;0;1
+317;Kärsämäki;2 324;Pienet kunnat;0;0;0;1;0;1
+398;Lahti;121 832;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+399;Laihia;7 534;Pienet kunnat;0;0;0;1;0;1
+400;Laitila;8 400;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+407;Lapinjärvi;2 430;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+402;Lapinlahti;8 803;Pienet kunnat;0;0;0;1;0;1
+403;Lappajärvi;2 704;Pienet kunnat;0;0;0;1;0;1
+405;Lappeenranta;73 241;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+408;Lapua;13 927;Seutukaupungit;0;0;1;0;0;1
+410;Laukaa;18 808;Kehyskunnat;0;1;0;0;0;1
+416;Lemi;2 878;Pienet kunnat;0;0;0;1;0;1
+418;Lempäälä;25 041;Kehyskunnat;0;1;0;0;0;1
+420;Leppävirta;8 924;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+421;Lestijärvi;656;Pienet kunnat;0;0;0;1;0;1
+422;Lieksa;9 846;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+423;Lieto;20 732;Kehyskunnat;0;1;0;0;0;1
+425;Liminka;10 116;Kehyskunnat;0;1;0;0;0;1
+426;Liperi;11 980;Kehyskunnat;0;1;0;0;0;1
+444;Lohja;45 435;"Seutukaupungit; Ruotsin- ja kaksikieliset kunnat";0;0;1;0;1;2
+430;Loimaa;15 124;Seutukaupungit;0;0;1;0;0;1
+433;Loppi;7 574;Pienet kunnat;0;0;0;1;0;1
+434;Loviisa;14 196;"Seutukaupungit; Ruotsin- ja kaksikieliset kunnat";0;0;1;0;1;2
+435;Luhanka;695;Pienet kunnat;0;0;0;1;0;1
+436;Lumijoki;2 018;Pienet kunnat;0;0;0;1;0;1
+440;Luoto;5 955;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+441;Luumäki;4 304;Pienet kunnat;0;0;0;1;0;1
+475;Maalahti;5 392;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+480;Marttila;1 890;Pienet kunnat;0;0;0;1;0;1
+481;Masku;9 612;Pienet kunnat;0;0;0;1;0;1
+483;Merijärvi;1 031;Pienet kunnat;0;0;0;1;0;1
+484;Merikarvia;2 834;Pienet kunnat;0;0;0;1;0;1
+489;Miehikkälä;1 664;Pienet kunnat;0;0;0;1;0;1
+491;Mikkeli;51 551;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+494;Muhos;8 767;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+495;Multia;1 386;Pienet kunnat;0;0;0;1;0;1
+498;Muonio;2 323;Pienet kunnat;0;0;0;1;0;1
+499;Mustasaari;19 792;Ruotsin- ja kaksikieliset kunnat;0;0;0;0;1;1
+500;Muurame;10 646;Kehyskunnat;0;1;0;0;0;1
+503;Mynämäki;7 424;Pienet kunnat;0;0;0;1;0;1
+504;Myrskylä;1 692;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+505;Mäntsälä;20 861;Kehyskunnat;0;1;0;0;0;1
+508;Mänttä-Vilppula;9 109;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+507;Mäntyharju;7 034;Pienet kunnat;0;0;0;1;0;1
+529;Naantali;20 390;Kehyskunnat;0;1;0;0;0;1
+531;Nakkila;4 890;Pienet kunnat;0;0;0;1;0;1
+535;Nivala;10 300;Seutukaupungit;0;0;1;0;0;1
+536;Nokia;36 571;Kehyskunnat;0;1;0;0;0;1
+538;Nousiainen;4 667;Pienet kunnat;0;0;0;1;0;1
+541;Nurmes;8 760;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+543;Nurmijärvi;45 333;Kehyskunnat;0;1;0;0;0;1
+545;Närpiö;9 538;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+560;Orimattila;15 575;Kehyskunnat;0;1;0;0;0;1
+561;Oripää;1 264;Pienet kunnat;0;0;0;1;0;1
+562;Orivesi;8 858;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+563;Oulainen;6 832;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+564;Oulu;217 469;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+309;Outokumpu;6 365;Pienet kunnat;0;0;0;1;0;1
+576;Padasjoki;2 656;Pienet kunnat;0;0;0;1;0;1
+577;Paimio;11 284;Seutukaupungit;0;0;1;0;0;1
+578;Paltamo;2 941;Pienet kunnat;0;0;0;1;0;1
+445;Parainen;14 712;"Seutukaupungit; Ruotsin- ja kaksikieliset kunnat";0;0;1;0;1;2
+580;Parikkala;4 235;Pienet kunnat;0;0;0;1;0;1
+581;Parkano;6 011;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+599;Pedersöre;11 289;Ruotsin- ja kaksikieliset kunnat;0;0;0;0;1;1
+583;Pelkosenniemi;932;Pienet kunnat;0;0;0;1;0;1
+854;Pello;3 146;Pienet kunnat;0;0;0;1;0;1
+584;Perho;2 547;Pienet kunnat;0;0;0;1;0;1
+592;Petäjävesi;3 511;Pienet kunnat;0;0;0;1;0;1
+593;Pieksämäki;17 124;Seutukaupungit;0;0;1;0;0;1
+595;Pielavesi;3 873;Pienet kunnat;0;0;0;1;0;1
+598;Pietarsaari;19 657;"Seutukaupungit; Ruotsin- ja kaksikieliset kunnat";0;0;1;0;1;2
+601;Pihtipudas;3 676;Pienet kunnat;0;0;0;1;0;1
+604;Pirkkala;21 373;Kehyskunnat;0;1;0;0;0;1
+607;Polvijärvi;3 942;Pienet kunnat;0;0;0;1;0;1
+608;Pomarkku;1 893;Pienet kunnat;0;0;0;1;0;1
+609;Pori;83 010;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+611;Pornainen;4 919;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+638;Porvoo;51 863;"Suuret kaupungit ja maakuntakeskukset; Ruotsin- ja kaksikieliset kunnat";1;0;0;0;1;2
+614;Posio;2 826;Pienet kunnat;0;0;0;1;0;1
+615;Pudasjärvi;7 168;Pienet kunnat;0;0;0;1;0;1
+616;Pukkila;1 720;Pienet kunnat;0;0;0;1;0;1
+619;Punkalaidun;2 546;Pienet kunnat;0;0;0;1;0;1
+620;Puolanka;2 322;Pienet kunnat;0;0;0;1;0;1
+623;Puumala;2 081;Pienet kunnat;0;0;0;1;0;1
+624;Pyhtää;5 016;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+625;Pyhäjoki;2 938;Pienet kunnat;0;0;0;1;0;1
+626;Pyhäjärvi;4 551;Pienet kunnat;0;0;0;1;0;1
+630;Pyhäntä;1 678;Pienet kunnat;0;0;0;1;0;1
+631;Pyhäranta;1 892;Pienet kunnat;0;0;0;1;0;1
+635;Pälkäne;6 146;Pienet kunnat;0;0;0;1;0;1
+636;Pöytyä;7 903;Pienet kunnat;0;0;0;1;0;1
+678;Raahe;23 413;Seutukaupungit;0;0;1;0;0;1
+710;Raasepori;26 856;"Seutukaupungit; Ruotsin- ja kaksikieliset kunnat";0;0;1;0;1;2
+680;Raisio;26 036;Kehyskunnat;0;1;0;0;0;1
+681;Rantasalmi;3 219;Pienet kunnat;0;0;0;1;0;1
+683;Ranua;3 530;Pienet kunnat;0;0;0;1;0;1
+684;Rauma;38 773;Seutukaupungit;0;0;1;0;0;1
+686;Rautalampi;2 928;Pienet kunnat;0;0;0;1;0;1
+687;Rautavaara;1 398;Pienet kunnat;0;0;0;1;0;1
+689;Rautjärvi;2 888;Pienet kunnat;0;0;0;1;0;1
+691;Reisjärvi;2 476;Pienet kunnat;0;0;0;1;0;1
+694;Riihimäki;28 555;Seutukaupungit;0;0;1;0;0;1
+697;Ristijärvi;1 158;Pienet kunnat;0;0;0;1;0;1
+698;Rovaniemi;66 191;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+700;Ruokolahti;4 679;Pienet kunnat;0;0;0;1;0;1
+702;Ruovesi;3 995;Pienet kunnat;0;0;0;1;0;1
+704;Rusko;6 381;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+707;Rääkkylä;1 830;Pienet kunnat;0;0;0;1;0;1
+729;Saarijärvi;8 763;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+732;Salla;3 231;Pienet kunnat;0;0;0;1;0;1
+734;Salo;50 339;"Suuret kaupungit ja maakuntakeskukset; Seutukaupungit";1;0;1;0;0;2
+790;Sastamala;23 332;Seutukaupungit;0;0;1;0;0;1
+738;Sauvo;2 957;Pienet kunnat;0;0;0;1;0;1
+739;Savitaipale;3 094;Pienet kunnat;0;0;0;1;0;1
+740;Savonlinna;31 008;Seutukaupungit;0;0;1;0;0;1
+742;Savukoski;974;Pienet kunnat;0;0;0;1;0;1
+743;Seinäjoki;67 283;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+746;Sievi;4 585;Pienet kunnat;0;0;0;1;0;1
+747;Siikainen;1 229;Pienet kunnat;0;0;0;1;0;1
+748;Siikajoki;4 723;Pienet kunnat;0;0;0;1;0;1
+791;Siikalatva;4 861;Pienet kunnat;0;0;0;1;0;1
+749;Siilinjärvi;21 348;Kehyskunnat;0;1;0;0;0;1
+751;Simo;2 701;Pienet kunnat;0;0;0;1;0;1
+753;Sipoo;23 006;"Kehyskunnat; Ruotsin- ja kaksikieliset kunnat";0;1;0;0;1;2
+755;Siuntio;6 192;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+758;Sodankylä;8 095;Pienet kunnat;0;0;0;1;0;1
+759;Soini;1 772;Pienet kunnat;0;0;0;1;0;1
+761;Somero;8 339;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+762;Sonkajärvi;3 521;Pienet kunnat;0;0;0;1;0;1
+765;Sotkamo;10 161;Kehyskunnat;0;1;0;0;0;1
+768;Sulkava;2 310;Pienet kunnat;0;0;0;1;0;1
+777;Suomussalmi;6 957;Pienet kunnat;0;0;0;1;0;1
+778;Suonenjoki;6 549;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+781;Sysmä;3 367;Pienet kunnat;0;0;0;1;0;1
+783;Säkylä;6 221;Pienet kunnat;0;0;0;1;0;1
+831;Taipalsaari;4 574;Pienet kunnat;0;0;0;1;0;1
+832;Taivalkoski;3 555;Pienet kunnat;0;0;0;1;0;1
+833;Taivassalo;1 707;Pienet kunnat;0;0;0;1;0;1
+834;Tammela;5 777;Pienet kunnat;0;0;0;1;0;1
+837;Tampere;263 337;Suuret kaupungit ja maakuntakeskukset;1;0;0;0;0;1
+844;Tervo;1 388;Pienet kunnat;0;0;0;1;0;1
+845;Tervola;2 837;Pienet kunnat;0;0;0;1;0;1
+846;Teuva;4 574;Pienet kunnat;0;0;0;1;0;1
+848;Tohmajärvi;3 869;Pienet kunnat;0;0;0;1;0;1
+849;Toholampi;2 750;Pienet kunnat;0;0;0;1;0;1
+850;Toivakka;2 307;Pienet kunnat;0;0;0;1;0;1
+851;Tornio;20 823;Seutukaupungit;0;0;1;0;0;1
+853;Turku;209 633;"Suuret kaupungit ja maakuntakeskukset; Ruotsin- ja kaksikieliset kunnat";1;0;0;0;1;2
+857;Tuusniemi;2 270;Pienet kunnat;0;0;0;1;0;1
+858;Tuusula;42 479;Kehyskunnat;0;1;0;0;0;1
+859;Tyrnävä;6 470;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+886;Ulvila;12 339;Kehyskunnat;0;1;0;0;0;1
+887;Urjala;4 440;Pienet kunnat;0;0;0;1;0;1
+889;Utajärvi;2 399;Pienet kunnat;0;0;0;1;0;1
+890;Utsjoki;1 112;Pienet kunnat;0;0;0;1;0;1
+892;Uurainen;3 651;Pienet kunnat;0;0;0;1;0;1
+893;Uusikaarlepyy;7 391;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+895;Uusikaupunki;14 783;Seutukaupungit;0;0;1;0;0;1
+785;Vaala;2 544;Pienet kunnat;0;0;0;1;0;1
+905;Vaasa;71 209;"Suuret kaupungit ja maakuntakeskukset; Ruotsin- ja kaksikieliset kunnat";1;0;0;0;1;2
+908;Valkeakoski;20 762;Seutukaupungit;0;0;1;0;0;1
+092;Vantaa;252 956;"Suuret kaupungit ja maakuntakeskukset; Ruotsin- ja kaksikieliset kunnat";1;0;0;0;1;2
+915;Varkaus;19 433;Seutukaupungit;0;0;1;0;0;1
+918;Vehmaa;2 263;Pienet kunnat;0;0;0;1;0;1
+921;Vesanto;1 787;Pienet kunnat;0;0;0;1;0;1
+922;Vesilahti;4 532;"Kehyskunnat; Pienet kunnat";0;1;0;1;0;2
+924;Veteli;2 912;Pienet kunnat;0;0;0;1;0;1
+925;Vieremä;3 295;Pienet kunnat;0;0;0;1;0;1
+927;Vihti;28 852;Kehyskunnat;0;1;0;0;0;1
+931;Viitasaari;5 695;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+934;Vimpeli;2 554;Pienet kunnat;0;0;0;1;0;1
+935;Virolahti;2 751;Pienet kunnat;0;0;0;1;0;1
+936;Virrat;6 126;Pienet kunnat;0;0;0;1;0;1
+946;Vöyri;6 185;"Pienet kunnat; Ruotsin- ja kaksikieliset kunnat";0;0;0;1;1;2
+976;Ylitornio;3 673;Pienet kunnat;0;0;0;1;0;1
+977;Ylivieska;15 274;Seutukaupungit;0;0;1;0;0;1
+980;Ylöjärvi;33 658;Kehyskunnat;0;1;0;0;0;1
+981;Ypäjä;2 186;Pienet kunnat;0;0;0;1;0;1
+989;Ähtäri;5 121;"Seutukaupungit; Pienet kunnat";0;0;1;1;0;2
+992;Äänekoski;17 492;Seutukaupungit;0;0;1;0;0;1

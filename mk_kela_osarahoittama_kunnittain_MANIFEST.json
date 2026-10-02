@@ -1,0 +1,21 @@
+{
+  "dataset": "mk_kela_osarahoittama_kunnittain",
+  "generated": "2026-10-02",
+  "currentYear": 2026,
+  "years": [
+    {
+      "year": 2025,
+      "file": "mk_kela_osarahoittama_kunnittain_2025.csv",
+      "status": "final",
+      "version": "d69cafde",
+      "rows": 149829
+    },
+    {
+      "year": 2026,
+      "file": "mk_kela_osarahoittama_kunnittain_2026.csv",
+      "status": "current",
+      "version": "e3e6dd48",
+      "rows": 109088
+    }
+  ]
+}

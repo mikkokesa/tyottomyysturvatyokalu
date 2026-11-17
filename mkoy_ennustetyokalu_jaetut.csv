@@ -1,26 +1,26 @@
 ﻿TEM LYHYEN AIKAVÄLIN TYÖMARKKINAENNUSTE, KOKO MAA;;;;;TYÖTTÖMYYSTURVAN KUNTAMAKSUN KORJAUSKERTOIMET ;;;;;FINANSSIVALVONTA, Ansiopäivärahan saajat ja maksetut etuudet, koko maa;;;VOS-KOMPENSAATIO: Kunnan työttömyysetuuksien rahoitusvastuun laajentamisen korvaus (TE25), euroa. Vuosisarake = työttömyyskustannusvuosi jota korvaus kompensoi;;;;
 ;2026*;2027*;2028*;;;TYÖMARKKINATUKI, PERUSPÄIVÄRAHA, YLEISTUKI TYÖTTÖMYYDEN PERUSTEELLA;ANSIOTURVA;Sanalliset kuvaukset korjauskertoimista (jokaiseen soluun oma kuvaus ja mihin kuukausiin vaikuttaa;ARKIPÄIVIEN LKM;Maksetut etuudet;Saajat;;Kunta nro;Kunta;2025;2026;2027
-Työttömät työnhakijat;342 000;338 000;324 000;;tammi.25;2,7;5,58;Maksuperusteesta johtuen kuluja ei kohdentunut alkuvuodelle täysimääräisesti. Kelan etuuksia on oikaistu ylöspäin tammi-helmi ja ansiopäivärahaa tammi-maalis.;23;189696469;130285;;5;Alajärvi;316760,57;316760,57;316760,57
-Pitkäaikaistyöttömät;141 000;138 000;129 000;;helmi.25;1,09;1,32;;20;177985936;125512;;9;Alavieska;76029,62;76029,62;76029,62
+Työttömät työnhakijat;340 000;340 000;328 000;;tammi.25;2,7;5,58;Maksuperusteesta johtuen kuluja ei kohdentunut alkuvuodelle täysimääräisesti. Kelan etuuksia on oikaistu ylöspäin tammi-helmi ja ansiopäivärahaa tammi-maalis.;23;189696469;130285;;5;Alajärvi;316760,57;316760,57;316760,57
+Pitkäaikaistyöttömät;142 000;145 000;137 000;;helmi.25;1,09;1,32;;20;177985936;125512;;9;Alavieska;76029,62;76029,62;76029,62
 ;;;;;maalis.25;1,04;1,2;;21;175899709;129863;;10;Alavus;534209,62;534209,62;534209,62
 TEM LYHYEN AIKAVÄLIN TYÖMARKKINAENNUSTE,  Elinvoimakeskusalueittain;;;;;huhti.25;1,04;1;;22;179354663;124733;;16;Asikkala;294529,83;294529,83;294529,83
 Työttömät työnhakijat;;;;;touko.25;1,04;1;;22;149802318;111283;;18;Askola;135236,42;135236,42;135236,42
 EVK;2026*;2027*;2028*;;kesä.25;1,04;1;;21;134392850;100946;;19;Aura;77081,08;77081,08;77081,08
-Uudenmaan;117 600;118 200;114 500;;heinä.25;1,04;1;;23;146159609;104224;;20;Akaa;1028469,86;1028469,86;1028469,86
-Varsinais-Suomen;28 800;28 500;27 200;;elo.25;1,04;1;;21;145669506;106593;;46;Enonkoski;39422,01;39422,01;39422,01
-Satakunnan;11 200;11 000;10 500;;syys.25;1,04;1;;22;130597578;96764;;47;Enontekiö;44772,3;44772,3;44772,3
-Hämeen;23 300;22 700;21 400;;loka.25;0,8;1;Ansiopäivärahalta työmarkkinatuelle tippuneita ei oltu laskutettu loka/marraskuuhun asti ollenkaan. Takautuvat maksut on tasattu Kelan etuuksiin painotetusti tammikuusta loka/marraskuuhun, jolloin takautuva korjaus on tehty.;23;131887599;98797;;49;Espoo;9001638,31;9001638,31;9001638,31
-Pirkanmaan;36 400;35 900;34 200;;marras.25;0,87;1;Pääosin työmarkkinatuen hyvitykset palautettiin kunnille koko alkuvuoden osalta vasta marraskuussa. Palautukset on tasattu Kelan etuuksiin painotetusti tammi-marras.;20;127743052;98491;;50;Eura;295813,23;295813,23;295813,23
-Kaakkois-Suomen;18 200;18 000;17 500;;joulu.25;1;1;;23;141352878;106527;;51;Eurajoki;263763,16;263763,16;263763,16
-Etelä-Savon;6 600;6 400;6 000;;tammi.26;1;1;;22;149805256;114804;;52;Evijärvi;65695,45;65695,45;65695,45
-Pohjois-Savon;14 600;14 500;14 100;;helmi.26;1;1;;20;146312017;112936;;61;Forssa;1310691,95;1310691,95;1310691,95
-Pohjois-Karjalan;10 900;10 700;10 400;;maalis.26;1;1;;22;153015833;118995;;69;Haapajärvi;225377,21;225377,21;225377,21
-Keski-Suomen;19 600;19 400;18 600;;huhti.26;1;1;;22;140475794;109160;;71;Haapavesi;216053,06;216053,06;216053,06
-Etelä-Pohjanmaan;7 700;7 400;6 900;;touko.26;1;1;;21;116459444;95307;;72;Hailuoto;38544,15;38544,15;38544,15
-Pohjanmaan;9 500;9 300;8 800;;kesä.26;1;1;;22;108498968;88005;;74;Halsua;13527,52;13527,52;13527,52
-Pohjois-Pohjanmaan;25 600;25 000;23 900;;heinä.26;1;1;;23;110339623;89893;;75;Hamina;898453,92;898453,92;898453,92
-Kainuun;3 200;3 000;2 700;;elo.26;1;1;;21;117529866;93255;;77;Hankasalmi;207058,3;207058,3;207058,3
-Lapin;8 100;7 500;6 700;;syys.26;1;1;;22;105531409,6;84114;;78;Hanko;329720,4;329720,4;329720,4
+Uudenmaan;117 500;119 500;116 800;;heinä.25;1,04;1;;23;146159609;104224;;20;Akaa;1028469,86;1028469,86;1028469,86
+Varsinais-Suomen;28 200;27 700;26 500;;elo.25;1,04;1;;21;145669506;106593;;46;Enonkoski;39422,01;39422,01;39422,01
+Satakunnan;11 400;11 300;11 100;;syys.25;1,04;1;;22;130597578;96764;;47;Enontekiö;44772,3;44772,3;44772,3
+Hämeen;23 300;23 100;22 000;;loka.25;0,8;1;Ansiopäivärahalta työmarkkinatuelle tippuneita ei oltu laskutettu loka/marraskuuhun asti ollenkaan. Takautuvat maksut on tasattu Kelan etuuksiin painotetusti tammikuusta loka/marraskuuhun, jolloin takautuva korjaus on tehty.;23;131887599;98797;;49;Espoo;9001638,31;9001638,31;9001638,31
+Pirkanmaan;36 000;36 200;34 700;;marras.25;0,87;1;Pääosin työmarkkinatuen hyvitykset palautettiin kunnille koko alkuvuoden osalta vasta marraskuussa. Palautukset on tasattu Kelan etuuksiin painotetusti tammi-marras.;20;127743052;98491;;50;Eura;295813,23;295813,23;295813,23
+Kaakkois-Suomen;17 900;17 800;17 200;;joulu.25;1;1;;23;141352878;106527;;51;Eurajoki;263763,16;263763,16;263763,16
+Etelä-Savon;6 700;6 500;6 100;;tammi.26;1;1;;22;149805256;114804;;52;Evijärvi;65695,45;65695,45;65695,45
+Pohjois-Savon;14 300;14 000;13 300;;helmi.26;1;1;;20;146312017;112936;;61;Forssa;1310691,95;1310691,95;1310691,95
+Pohjois-Karjalan;10 800;10 600;10 400;;maalis.26;1;1;;22;153015833;118995;;69;Haapajärvi;225377,21;225377,21;225377,21
+Keski-Suomen;19 300;19 100;18 400;;huhti.26;1;1;;22;140475794;109160;;71;Haapavesi;216053,06;216053,06;216053,06
+Etelä-Pohjanmaan;7 800;7 900;7 700;;touko.26;1;1;;21;116459444;95307;;72;Hailuoto;38544,15;38544,15;38544,15
+Pohjanmaan;9 200;9 100;8 800;;kesä.26;1;1;;22;108498968;88005;;74;Halsua;13527,52;13527,52;13527,52
+Pohjois-Pohjanmaan;25 100;24 700;23 700;;heinä.26;1;1;;23;110339623;89893;;75;Hamina;898453,92;898453,92;898453,92
+Kainuun;3 500;3 500;3 300;;elo.26;1;1;;21;117529866;93255;;77;Hankasalmi;207058,3;207058,3;207058,3
+Lapin;8 500;8 100;7 500;;syys.26;1;1;;22;105531409,6;84114;;78;Hanko;329720,4;329720,4;329720,4
 ;;;;;loka.26;1;1;;22;99644258,57;83939;;79;Harjavalta;405339,74;405339,74;405339,74
 ;;;;;marras.26;1;1;;21;;;;81;Hartola;118360,6;118360,6;118360,6
 ;;;;;joulu.26;1;1;;23;;;;82;Hattula;235899,34;235899,34;235899,34
